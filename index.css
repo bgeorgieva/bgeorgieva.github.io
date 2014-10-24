@@ -10,13 +10,15 @@ html {
 }
 
 body{
-   background: no-repeat #333;
-   background-size: 1020px 450px;
-   background-position: top;
    font-family: Raleway,Helvetica,Arial,sans-serif;
    font-size: 12px;
 }
 
+head{
+	   background: no-repeat #333;
+   background-size: 1020px 450px;
+   background-position: top;
+}
 
 
 
