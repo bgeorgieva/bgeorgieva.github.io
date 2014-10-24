@@ -2,7 +2,7 @@ p, body
 {
         margin: 0;
         padding: 0;
-        
+        border: 0 none;
 }
 
 html {
@@ -10,21 +10,13 @@ html {
 }
 
 body{
-   background-color: #fff;
-   background-image: url("1.png");
-   background-repeat: no-repeat;
+   background: no-repeat #333;
+   background-size: 1020px 450px;
    background-position: top;
-   font-size: 16px;
-   min-width: 1020px;
-   max-height: 400px;
+   font-family: Raleway,Helvetica,Arial,sans-serif;
+   font-size: 12px;
 }
 
-div, h1, header{
-	margin-left: 220px;
-}
 
-img{
 
-	border-radius: 15px;
-}
 
