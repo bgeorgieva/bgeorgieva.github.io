@@ -1,0 +1,29 @@
+p, body
+{
+        margin: 0;
+        padding: 0;
+        
+}
+
+html {
+    font-family: sans-serif;
+}
+
+body{
+   background-color: #fff;
+   background-image: url("bilyana.png");
+   background-repeat: no-repeat;
+   background-position: left top;
+   font-size: 16px;
+   min-width: 1020px;
+}
+
+div, h1, header{
+	margin-left: 220px;
+}
+
+img{
+
+	border-radius: 15px;
+}
+
