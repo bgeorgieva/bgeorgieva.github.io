@@ -11,11 +11,12 @@ html {
 
 body{
    background-color: #fff;
-   background-image: url("bilyana.png");
+   background-image: url("1.png");
    background-repeat: no-repeat;
-   background-position: left top;
+   background-position: top;
    font-size: 16px;
    min-width: 1020px;
+   max-height: 400px;
 }
 
 div, h1, header{
