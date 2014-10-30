@@ -13,20 +13,24 @@ p, body, div, ul, li, a{
     text-align: center; 
 }
 
+#main-content{
+	padding: 120px;
+}
+
 #footer{
 		width:100%;
 height:80px;
 position:absolute;
 bottom:0;
-left:0;
 padding-bottom: 80px;
-padding: 10px;
+padding: 10px 500px;
+
 }
 
 ul{
-
+	list-style-type: none;
 }
 li{
 	float: left;
-	text-decoration: none;
+	margin-left: 10px;
 }
